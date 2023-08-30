@@ -1,0 +1,30 @@
+.usericons {
+    width: 48px;
+    height: 65px;
+   margin: 0px 11px;
+   /* width: 86%; */
+}
+@media only screen and (max-width: 600px) {
+    .usericons {
+        width: 65px;
+        height: 65px;
+       margin: 0px 6px;
+    }
+   
+  }
+  .name{
+    margin-top: 0px;
+  }
+  .namestory{
+    margin-left:-73px;
+    margin-top: 0px;
+
+  }
+  /* @media only screen and (min-width: 600px) {
+    .usericons {
+        width: 65px;
+        height: 100px;
+       margin: 0px 6px;
+    } */
+   
+  /* } */

@@ -1,0 +1,36 @@
+.stories{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+/* form.module.css */
+.form-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Set the container height to the full viewport height */
+  }
+  
+  /* Assign a local class to the form element */
+  .myForm {
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  /* Assign local classes to label, input, and button */
+  .myLabel {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .myInput {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .myButton {
+    display: block;
+    margin-bottom: 10px;
+  }
+  

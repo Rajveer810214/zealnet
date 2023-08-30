@@ -1,0 +1,76 @@
+.logo {
+  width: 45%;
+  height: 33%;
+  margin: auto;
+  display: block;
+}
+.buttons{
+  display: flex;
+    flex-direction: column;
+}
+.btngetstarted{
+  width: 30%;
+    margin: auto;
+    margin-top: 10px;
+    /* background: #97cef5; */
+    /* color: black; */
+    font-size: 15px;
+}
+.btnsignup{
+  /* background: #3c4750; */
+    width: 30%;
+    margin: auto;
+    margin-top: 14px;
+    font-size: 15px;
+
+}
+
+@media only screen and (max-width: 1070px) {
+  /* .front {
+    margin-top: 210px;
+  } */
+  .logo {
+    width: 100%;
+    height: 33%;
+    margin: auto;
+    display: block;
+  }
+  .btngetstarted{
+    width: 50%;
+      margin: auto;
+      margin-top: 10px;
+      
+      font-size: 15px;
+  }
+  .btnsignup{
+      width: 50%;
+      margin: auto;
+      margin-top: 14px;
+      font-size: 15px;
+  
+  }
+}
+/* .front {
+  margin-top: 30px;
+} */
+/* front.module.css */
+/* front.module.css */
+
+/* New class for the spinner overlay */
+/* front.module.css */
+/* .frontchild {
+  /* Your existing styles for the main content here */
+  /* position: relative; */
+  /* opacity: .3; */
+  /* Make sure the container is positioned relatively */
+/* } */ 
+
+/* New class for the spinner */
+/* .spinner {
+  /* Center the spinner in the middle of the container */
+  /* position: absolute;
+  /* color: black; */
+  /* top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */ 
